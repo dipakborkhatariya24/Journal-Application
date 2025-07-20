@@ -3,7 +3,7 @@ spring:
     name:
       Journal App
   data:
-    mongodb: uri:mongodb+srv://borkhatariyadipak24:mfaxm3x0odL9kuEC@cluster0.ihorrrx.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+    mongodb: //add your userid & paasowrd
     database: journaldb
     auto-index-creation: true
 server:
